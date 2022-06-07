@@ -1,4 +1,4 @@
-module github.com/logicmonitor/lm-telemetry-sdk-go
+module github.com/sachanta/lm-telemetry-sdk-go
 
 go 1.16
 
